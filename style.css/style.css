@@ -1,0 +1,22 @@
+h1{
+border-top: 5px solid #2d2d2d;
+padding-top:20px;
+}
+#article{
+border-bottom: 1px solid #9a9a9a;
+margin-bottom: 7px;
+}
+#box{
+  margin-left: 25px;
+}
+#HTML,#bitrix{
+  position:relative;
+}
+#HTML{
+   left:500px;
+   top:-700px;
+}
+#certificates{
+  border-top: 1px solid #9a9a9a;
+  padding-top:10px;
+}
