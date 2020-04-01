@@ -1,0 +1,26 @@
+#box{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+h1{
+  padding-top: 20px;
+  font-size: 2em;
+  border-top: 4.5px solid #000;
+}
+#article{
+  border-bottom: 1px solid #9a9a9a;
+}
+.grey_div{
+  margin-top: 10px;
+}
+#certificates{
+  border-top: 1px solid #9a9a9a;
+  padding-top: 15px;
+}
+#bitrix,#HTML{
+  position: relative;
+}
+#HTML{
+  left: 600px;
+  bottom: 705px;
+}
