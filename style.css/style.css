@@ -9,9 +9,6 @@ margin-bottom: 7px;
 #box{
   margin-left: 25px;
 }
-#bitrix{
-height: 1600px;
-}
-#HTML{
-weight:1600px;
+#certificates img{
+max-width: 1000px;
 }
