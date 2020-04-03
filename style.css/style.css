@@ -9,14 +9,9 @@ margin-bottom: 7px;
 #box{
   margin-left: 25px;
 }
-#HTML,#bitrix{
-  position:relative;
+#bitrix{
+height: 1600px;
 }
 #HTML{
-   left:500px;
-   top:-700px;
-}
-#certificates{
-  border-top: 1px solid #9a9a9a;
-  padding-top:10px;
+weight:1600px;
 }
